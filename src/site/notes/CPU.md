@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cpu/","tags":["gardenEntry"],"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/cpu/","dgShowLocalGraph":true}
 ---
 
 Responsável por processar dados e transformar em informação
