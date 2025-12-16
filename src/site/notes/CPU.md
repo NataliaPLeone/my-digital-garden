@@ -1,5 +1,5 @@
 ---
-{"aliases":["unidade central de processamento","Processador"],"tags":["gardenEntry"],"dg-home":true,"dg-publish":true,"dg-show-local-graph":true,"permalink":"/cpu/","dgShowLocalGraph":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cpu/","tags":["gardenEntry"],"dgShowLocalGraph":true}
 ---
 
 Responsável por processar dados e transformar em informação
