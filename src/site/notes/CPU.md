@@ -1,5 +1,5 @@
 ---
-{"aliases":["unidade central de processamento","Processador"],"tags":null,"dg-home":false,"dg-publish":true,"dg-show-local-graph":true,"permalink":"/cpu/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-12-16T18:52:03.555-03:00","updated":"2025-12-16T19:21:25.114-03:00"}
+{"aliases":["unidade central de processamento","Processador"],"tags":null,"dg-home":false,"dg-publish":true,"dg-show-local-graph":true,"permalink":"/cpu/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-12-16T18:52:03.555-03:00","updated":"2025-12-16T19:38:02.357-03:00"}
 ---
 
 Responsável por processar dados e transformar em informação
@@ -8,7 +8,7 @@ Responsável por processar dados e transformar em informação
 - [[Unidade de controle\|Unidade de controle]]
 - [[Unidade Lógica e Aritmética\|ULA]]
 - interconexão interna
-- [[registradores\|registradores]]
+- [[registrador\|registrador]]
 
 Características:
 - frequência do processador | velocidade | clock:
