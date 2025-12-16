@@ -18,7 +18,7 @@ Características:
 	- 1 ou + núcleos
 - [[cache\|cache]] -> diminui o tmp de transmissão de info entre o processador e outros componentes
 	- mais info perto do processador
-![Pasted image 20251216190013.png](/img/user/Pasted%20image%2020251216190013.png)
+![Pasted image 20251216190013.png](/img/user/img/Pasted%20image%2020251216190013.png)
 
 ## Arquitetura
 - X86 (32 bits)
