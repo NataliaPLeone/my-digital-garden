@@ -1,5 +1,5 @@
 ---
-{"aliases":["registradores"],"dg-publish":true,"dg-show-local-graph":true,"dg-home":null,"permalink":"/registrador/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-12-16T19:01:43.363-03:00","updated":"2025-12-16T19:41:58.949-03:00"}
+{"aliases":["registradores"],"dg-publish":true,"dg-show-local-graph":true,"dg-home":null,"permalink":"/registrador/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-12-16T19:01:43.363-03:00","updated":"2025-12-16T19:44:19.439-03:00"}
 ---
 
 Pequena quantidade de memória encontrada dentro da [[CPU\|CPU]]
@@ -20,6 +20,6 @@ Seu conteúdo pode ser acessado mais rapidamente (pela unidade de controle ou UL
 	- e.x. contador de programa, apontador de pilha, registrador de status ou registrador de flag (indica se algo aconteceu durante uma operação) (zero, valor negativo, bit de paridade, overflow, etc)
 
 O que é um apontador de pilha? 
-	- Todo programa tem uma pilha
-	- a pilha é usada quando vc faz uma chamada aos procedimentos
-	- o apontador de pilha literalmente aponta pra pilha
+- Todo programa tem uma pilha
+- a pilha é usada quando vc faz uma chamada aos procedimentos
+- o apontador de pilha literalmente aponta pra pilha
