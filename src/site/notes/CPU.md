@@ -1,5 +1,5 @@
 ---
-{"aliases":["unidade central de processamento","Processador"],"tags":null,"dg-home":false,"dg-publish":true,"dg-show-local-graph":true,"date created":"terça-feira, dezembro 16º 2025, 6:52:03 pm","date modified":"quarta-feira, dezembro 17º 2025, 1:18:05 am","permalink":"/cpu/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-12-16T18:52:03.555-03:00","updated":"2025-12-17T01:19:39.656-03:00"}
+{"aliases":["unidade central de processamento","Processador"],"tags":null,"dg-home":false,"dg-publish":true,"dg-show-local-graph":true,"date created":"terça-feira, dezembro 16º 2025","date modified":"quarta-feira, dezembro 17º 2025","permalink":"/cpu/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-12-16T18:52:03.555-03:00","updated":"2025-12-17T01:22:55.883-03:00"}
 ---
 
 Responsável por processar dados e transformar em informação
