@@ -1,5 +1,5 @@
 ---
-{"aliases":["UC","control unit"],"tags":null,"dg-home":null,"dg-publish":true,"dg-show-local-graph":true,"date created":"segunda-feira, dezembro 15º 2025","date modified":"quarta-feira, dezembro 17º 2025","permalink":"/unidade-de-controle/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-12-17T01:22:45.006-03:00","updated":"2025-12-17T01:50:47.144-03:00"}
+{"aliases":["UC","control unit"],"tags":null,"dg-home":null,"dg-publish":true,"dg-show-local-graph":true,"date created":"segunda-feira, dezembro 15º 2025","date modified":"quarta-feira, dezembro 17º 2025","permalink":"/unidade-de-controle/","dgShowLocalGraph":true,"dgPassFrontmatter":true}
 ---
 
 - Componente da [[CPU\|CPU]] que direciona a operação do processador

@@ -1,5 +1,5 @@
 ---
-{"aliases":["registradores"],"dg-publish":true,"dg-show-local-graph":true,"dg-home":null,"permalink":"/registrador/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-12-16T19:01:43.363-03:00","updated":"2025-12-16T19:44:19.439-03:00"}
+{"aliases":["registradores"],"dg-publish":true,"dg-show-local-graph":true,"dg-home":null,"permalink":"/registrador/","dgShowLocalGraph":true,"dgPassFrontmatter":true}
 ---
 
 Pequena quantidade de memória encontrada dentro da [[CPU\|CPU]]

@@ -1,5 +1,5 @@
 ---
-{"tags":null,"dg-home":null,"dg-publish":true,"dg-show-local-graph":true,"date created":"quarta-feira, dezembro 17º 2025","date modified":"quarta-feira, dezembro 17º 2025","permalink":"/comando-dpkg-no-linux/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-12-17T02:21:31.125-03:00","updated":"2025-12-17T02:24:11.747-03:00"}
+{"tags":null,"dg-home":null,"dg-publish":true,"dg-show-local-graph":true,"date created":"quarta-feira, dezembro 17º 2025","date modified":"quarta-feira, dezembro 17º 2025","permalink":"/comando-dpkg-no-linux/","dgShowLocalGraph":true,"dgPassFrontmatter":true}
 ---
 
 Comando dpkg no [[Linux\|Linux]]
